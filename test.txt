@@ -1,2 +1,2 @@
-Common web terms
+Common web terms v2
 Html- HyperText Markup Language
